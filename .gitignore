@@ -129,8 +129,8 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
-*.war
+#*.jar
+*.war9
 *.ear
 *.zip
 *.tar.gz
