@@ -23,7 +23,7 @@ public class SerialTest implements SerialPortEventListener {
 	private static final String PORT_NAMES[] = {
 		"/dev/tty.usbserial-A9007UX1", // Mac
 		"/dev/ttyUSB1", // Linux
-		"COM8", // Windows
+		"COM4", // Windows
 	};
 	private BufferedReader input;
 	private OutputStream output;
